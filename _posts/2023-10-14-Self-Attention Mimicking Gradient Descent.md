@@ -11,6 +11,7 @@ thumbnail: assets/img/sample-post.png
 # Self-Attention Mimicking Gradient Descent
 ---
 {% include figure.html path="assets/img/sample-post.png" class="img-fluid rounded z-depth-1" %}
+{% include toc.html %}
 
 This section of paper **[Uncovering mesa-optimization algorithms in Transformers](https://arxiv.org/abs/2309.05858)** presents a theoretical construction where a linear self-attention layer in a Transformer architecture can mimic a single step of gradient descent for a linear regression task.
 
